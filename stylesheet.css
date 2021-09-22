@@ -392,7 +392,19 @@ img
     width:100%
 }
 
-
+/*--------contacts us page--------*/
+   
+.location{
+    width: 80%;
+    margin: auto;
+    padding: 80px 0;
+    
+}
+.location iframe{
+    width: 100%;
+}    
+      
+        
     
     
     
